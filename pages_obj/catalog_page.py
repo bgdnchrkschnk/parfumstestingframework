@@ -2,4 +2,5 @@ from pages_obj.base_page import BasePage
 
 
 class CatalogPage(BasePage):
-    pass
+
+    def __find_product_element:
