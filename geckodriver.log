@@ -1,0 +1,23 @@
+1692484887331	geckodriver	INFO	Listening on 127.0.0.1:51929
+1692484887396	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofileLk26BA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692484888073	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692484888393	Marionette	INFO	Listening on port 51960
+WebDriver BiDi listening on ws://127.0.0.1:51930
+Read port: 51960
+1692484888601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51930/devtools/browser/d88fc8bf-b2a1-4c7b-b9ac-2cf39e7f699f
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1692484895581	Marionette	INFO	Stopped listening on port 51960
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 1: Script terminated by timeout at:
+dispatch@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:41988
+add/h.handle@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:40597
+
