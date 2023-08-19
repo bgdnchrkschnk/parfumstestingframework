@@ -27,6 +27,7 @@ class BasePage:
     def wait(self):
         return self.__wait
 
+
     def __get_menu_topic_element(self, menu_topic):
         return self.__wait.until(
             EC.element_to_be_clickable((By.XPATH, MENU_ITEM.get_xpath_topic(menu_topic=menu_topic))))
@@ -35,7 +36,7 @@ class BasePage:
         return self.__wait.until(
             EC.visibility_of_element_located((By.XPATH, MENU_ITEM.get_xpath_item(menu_item=menu_item))))
 
-    def navigate_to_menu_item(self, menu_topic, menu_item):
+    def __navigate_to_menu_item(self, menu_topic, menu_item):
         self.__actions.move_to_element(to_element=self.__get_menu_topic_element(menu_topic=menu_topic)).perform()
         sleep(2)
         self.__get_menu_item_element(menu_item=menu_item).click()
@@ -43,7 +44,10 @@ class BasePage:
     def go_to_women_parfums(self):
         from pages_obj.catalog_page import CatalogPage
 
-        self.navigate_to_menu_item(menu_topic=ParfumsMenuTopic.PARFUMERIA.value,
+        self.__navigate_to_menu_item(menu_topic=ParfumsMenuTopic.PARFUMERIA.value,
                                    menu_item=ParfumsMenuItems.JINOCHA_PARF.value)
 
         return CatalogPage(self.webdriver)
+
+    def go_home_page(self):
+        self.webdriver.get("https://parfums.ua/ua")
