@@ -48,6 +48,3 @@ class BasePage:
                                    menu_item=ParfumsMenuItems.JINOCHA_PARF.value)
 
         return CatalogPage(self.webdriver)
-
-    def go_home_page(self):
-        self.webdriver.get("https://parfums.ua/ua")

@@ -32,6 +32,7 @@ def browser(request):
     browser_name = request.param
 
     driver = get_browser_driver(browser_name=browser_name)
+    driver.get("https://parfums.ua/ua")
     driver.maximize_window()
     yield HomePage(driver)
     driver.quit()
