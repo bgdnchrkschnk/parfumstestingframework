@@ -21,3 +21,29 @@ JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line
 dispatch@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:41988
 add/h.handle@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:40597
 
+1692537290411	geckodriver	INFO	Listening on 127.0.0.1:64740
+1692537290921	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofileng7eyi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692537291694	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692537291872	Marionette	INFO	Listening on port 64749
+WebDriver BiDi listening on ws://127.0.0.1:64741
+Read port: 64749
+1692537292060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:64741/devtools/browser/0e9daa2d-19ef-4b30-a781-284b73f393de
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1692537297713	Marionette	INFO	Stopped listening on port 64749
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+n@https://connect.facebook.net/en_US/fbevents.js:24:2264
+a@https://connect.facebook.net/en_US/fbevents.js:24:85080
+A@https://connect.facebook.net/signals/config/879924448806520?v=2.9.124&r=stable&domain=parfums.ua:26:43828
+D@https://connect.facebook.net/signals/config/879924448806520?v=2.9.124&r=stable&domain=parfums.ua:26:44683
+e.exports</</<@https://connect.facebook.net/signals/config/879924448806520?v=2.9.124&r=stable&domain=parfums.ua:26:45751
+

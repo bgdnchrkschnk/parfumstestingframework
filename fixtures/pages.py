@@ -15,10 +15,21 @@ def get_browser_driver(browser_name:str):
         raise AssertionError("Wrong browser name entered!")
 
 
+# @pytest.fixture
+# def browser(request):
+#
+#     browser_name = request.config.getoption("--browser")
+#
+#     driver = get_browser_driver(browser_name=browser_name)
+#     driver.maximize_window()
+#     yield HomePage(driver)
+#     driver.quit()
+
+
 @pytest.fixture
 def browser(request):
 
-    browser_name = request.config.getoption("--browser")
+    browser_name = request.param
 
     driver = get_browser_driver(browser_name=browser_name)
     driver.maximize_window()
