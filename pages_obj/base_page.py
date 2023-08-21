@@ -1,5 +1,6 @@
 from time import sleep
 
+from allure import step, attach, attachment_type
 from selenium.webdriver import Chrome, ActionChains
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -41,10 +42,11 @@ class BasePage:
         sleep(2)
         self.__get_menu_item_element(menu_item=menu_item).click()
 
+    # @step("Navigate to women parfums catalog - jinocha parfum")
     def go_to_women_parfums(self):
         from pages_obj.catalog_page import CatalogPage
-
-        self.__navigate_to_menu_item(menu_topic=ParfumsMenuTopic.PARFUMERIA.value,
+        with step("Navigate to women parfums catalog - jinocha parfum"):
+            self.__navigate_to_menu_item(menu_topic=ParfumsMenuTopic.PARFUMERIA.value,
                                    menu_item=ParfumsMenuItems.JINOCHA_PARF.value)
 
         return CatalogPage(self.webdriver)

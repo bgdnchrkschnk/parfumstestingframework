@@ -341,3 +341,257 @@ JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line
 dispatch@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:41988
 add/h.handle@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:40597
 
+1692619899000	geckodriver	INFO	Listening on 127.0.0.1:50836
+1692619899510	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofileldjcJ2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692619900088	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692619900268	Marionette	INFO	Listening on port 50845
+WebDriver BiDi listening on ws://127.0.0.1:50837
+Read port: 50845
+1692619900428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:50837/devtools/browser/438838c5-62b0-4f05-9af0-2eb527908a73
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1692619906169	Marionette	INFO	Stopped listening on port 50845
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 1: Script terminated by timeout at:
+dispatch@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:42283
+add/v.handle@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:40892
+
+1692619958734	geckodriver	INFO	Listening on 127.0.0.1:50916
+1692619959239	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofile6aOFIt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692619960056	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692619960561	Marionette	INFO	Listening on port 50933
+Read port: 50933
+WebDriver BiDi listening on ws://127.0.0.1:50917
+1692619960803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:50917/devtools/browser/f0370c36-947e-4206-80fd-88d37af1e85e
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+1692619969529	Marionette	INFO	Stopped listening on port 50933
+1692620013165	geckodriver	INFO	Listening on 127.0.0.1:51057
+1692620013679	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofile8F4z0l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692620014285	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692620014433	Marionette	INFO	Listening on port 51065
+WebDriver BiDi listening on ws://127.0.0.1:51058
+Read port: 51065
+1692620014578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51058/devtools/browser/d63fe689-b4c2-4a03-a6fc-6ec931abc755
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1692620020208	Marionette	INFO	Stopped listening on port 51065
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 1: Script terminated by timeout at:
+dispatch@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:42283
+add/v.handle@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:40892
+
+1692620083826	geckodriver	INFO	Listening on 127.0.0.1:51167
+1692620084338	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofileFxN7GS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692620084746	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692620084892	Marionette	INFO	Listening on port 51175
+WebDriver BiDi listening on ws://127.0.0.1:51168
+Read port: 51175
+1692620085065	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51168/devtools/browser/4a57a0a2-cb49-4bfc-b04e-a98ffac39b48
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1692620091056	Marionette	INFO	Stopped listening on port 51175
+1692620126684	geckodriver	INFO	Listening on 127.0.0.1:51271
+1692620127192	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofileEuGDp6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692620127582	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692620127691	Marionette	INFO	Listening on port 51279
+Read port: 51279
+WebDriver BiDi listening on ws://127.0.0.1:51272
+1692620127738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51272/devtools/browser/b1498d74-bce7-4d3e-b100-c0c138a0dde1
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1692620133437	Marionette	INFO	Stopped listening on port 51279
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 1: Script terminated by timeout at:
+dispatch@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:42283
+add/v.handle@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:40892
+
+1692620172100	geckodriver	INFO	Listening on 127.0.0.1:51374
+1692620172617	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofileKY1e2X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692620173023	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692620173140	Marionette	INFO	Listening on port 51382
+WebDriver BiDi listening on ws://127.0.0.1:51375
+Read port: 51382
+1692620173297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51375/devtools/browser/3a6a4e23-a609-42de-a641-5754294c43f8
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1692620178856	Marionette	INFO	Stopped listening on port 51382
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 1: Script terminated by timeout at:
+dispatch@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:42283
+add/v.handle@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:40892
+
+1692620966058	geckodriver	INFO	Listening on 127.0.0.1:51495
+1692620966572	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofileALz5C5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692620967121	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692620967249	Marionette	INFO	Listening on port 51503
+WebDriver BiDi listening on ws://127.0.0.1:51496
+Read port: 51503
+1692620967403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51496/devtools/browser/0080d2d1-9a1f-4dd3-9090-e92c5c4db434
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1692620973118	Marionette	INFO	Stopped listening on port 51503
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 1: Script terminated by timeout at:
+dispatch@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:42283
+add/v.handle@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:40892
+
+1692621066758	geckodriver	INFO	Listening on 127.0.0.1:51607
+1692621067272	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofile2bQlEU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692621067613	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692621067801	Marionette	INFO	Listening on port 51615
+WebDriver BiDi listening on ws://127.0.0.1:51608
+Read port: 51615
+1692621067950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51608/devtools/browser/11ff0709-f8ea-4e07-8c21-8f13d1b0a1f7
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1692621073801	Marionette	INFO	Stopped listening on port 51615
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 1: Script terminated by timeout at:
+dispatch@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:42283
+add/v.handle@https://parfums.ua/theme/site/js/lib/lib.min.56972e.js:1:40892
+
+1692621168145	geckodriver	INFO	Listening on 127.0.0.1:51717
+1692621168658	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofileAcIvAa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692621169055	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692621169165	Marionette	INFO	Listening on port 51725
+Read port: 51725
+WebDriver BiDi listening on ws://127.0.0.1:51718
+1692621169236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51718/devtools/browser/a80b2a48-ecd7-42da-9b08-638952532706
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1692621175109	Marionette	INFO	Stopped listening on port 51725
+1692621357018	geckodriver	INFO	Listening on 127.0.0.1:51832
+1692621357533	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofileWm8G5r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692621357952	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692621358086	Marionette	INFO	Listening on port 51840
+WebDriver BiDi listening on ws://127.0.0.1:51833
+Read port: 51840
+1692621358238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51833/devtools/browser/dafcecd2-7428-43f3-a0cc-658e777fcb97
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1692621364111	Marionette	INFO	Stopped listening on port 51840
+1692621383182	geckodriver	INFO	Listening on 127.0.0.1:51916
+1692621383699	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofile9ybBHW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692621384074	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692621384282	Marionette	INFO	Listening on port 51924
+WebDriver BiDi listening on ws://127.0.0.1:51917
+Read port: 51924
+1692621384414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:51917/devtools/browser/7ebeefcf-c893-44a4-b7e3-05c0062ae233
+1692621385445	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1692624128442	Marionette	INFO	Stopped listening on port 51924
+1692657873684	geckodriver	INFO	Listening on 127.0.0.1:49455
+1692657874157	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofileSwrvKw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692657874954	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692657875207	Marionette	INFO	Listening on port 49464
+Read port: 49464
+WebDriver BiDi listening on ws://127.0.0.1:49456
+1692657875722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49456/devtools/browser/25feb61d-f6e5-4cb4-8952-c79b2bd4b841
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1692657882644	Marionette	INFO	Stopped listening on port 49464
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+n@https://connect.facebook.net/en_US/fbevents.js:24:2264
+a@https://connect.facebook.net/en_US/fbevents.js:24:85080
+A@https://connect.facebook.net/signals/config/879924448806520?v=2.9.124&r=stable&domain=parfums.ua:26:43828
+D@https://connect.facebook.net/signals/config/879924448806520?v=2.9.124&r=stable&domain=parfums.ua:26:44683
+e.exports</</<@https://connect.facebook.net/signals/config/879924448806520?v=2.9.124&r=stable&domain=parfums.ua:26:45751
+
