@@ -42,11 +42,10 @@ class BasePage:
         sleep(2)
         self.__get_menu_item_element(menu_item=menu_item).click()
 
-    # @step("Navigate to women parfums catalog - jinocha parfum")
+    @step("Navigate to women parfums catalog - jinocha parfum")
     def go_to_women_parfums(self):
         from pages_obj.catalog_page import CatalogPage
-        with step("Navigate to women parfums catalog - jinocha parfum"):
-            self.__navigate_to_menu_item(menu_topic=ParfumsMenuTopic.PARFUMERIA.value,
-                                   menu_item=ParfumsMenuItems.JINOCHA_PARF.value)
-
+        self.__navigate_to_menu_item(menu_topic=ParfumsMenuTopic.PARFUMERIA.value, menu_item=ParfumsMenuItems.JINOCHA_PARF.value)
+        attach(self.webdriver.get_screenshot_as_png(), name="Screenshot of women parfums page", attachment_type=attachment_type.PNG)
+        attach("THIS IS TEST COMMENT", name="Name of attach", attachment_type=attachment_type.TEXT)
         return CatalogPage(self.webdriver)

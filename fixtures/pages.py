@@ -31,7 +31,6 @@ def browser(request):
 
     url, browser_name = request.param
     driver = get_browser_driver(browser_name=browser_name)
-    driver.get(url=url)
     driver.maximize_window()
-    yield HomePage(driver)
+    yield HomePage(webdriver=driver, url=url)
     driver.quit()
