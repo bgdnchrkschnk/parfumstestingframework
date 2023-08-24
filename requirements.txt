@@ -3,3 +3,4 @@ selenium
 requests
 pytest-xdist
 pyyaml
+click
