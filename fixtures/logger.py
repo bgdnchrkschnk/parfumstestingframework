@@ -11,11 +11,11 @@ def custom_logger(request):
 
     # Create console streaming handler
     c_handler = logging.StreamHandler()
-    c_handler.setLevel("INFO")
+    c_handler.setLevel(level=logging.NOTSET)
 
     # Creating string io streaming handler
     s_handler = logging.StreamHandler(stream=string_io)
-    s_handler.setLevel(logging.INFO)
+    s_handler.setLevel(level=logging.NOTSET)
 
     # Create formatters for each handler
     c_handler_format = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
