@@ -1,6 +1,7 @@
-import os
+from io import StringIO
 
-
-
-print(__file__)
-print(__file__[:__file__.index("t.py")])
+s = StringIO()
+s.write("scabhbjhbcs")
+s.write("657652367766732")
+a = s.getvalue()
+print(a, type(a))

@@ -5,7 +5,7 @@ from allure import attach, attachment_type
 
 
 class HomePage(CatalogPage):
-    def __init__(self, webdriver: Chrome, url):
-        super().__init__(webdriver=webdriver)
+    def __init__(self, webdriver: Chrome, logger, url):
+        super().__init__(webdriver=webdriver, logger=logger)
         self.webdriver.get(url=url)
         attach(self.webdriver.get_screenshot_as_png(), name="Home page screenshot", attachment_type=attachment_type.PNG)

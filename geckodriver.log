@@ -595,3 +595,41 @@ A@https://connect.facebook.net/signals/config/879924448806520?v=2.9.124&r=stable
 D@https://connect.facebook.net/signals/config/879924448806520?v=2.9.124&r=stable&domain=parfums.ua:26:44683
 e.exports</</<@https://connect.facebook.net/signals/config/879924448806520?v=2.9.124&r=stable&domain=parfums.ua:26:45751
 
+1692920785262	geckodriver	INFO	Listening on 127.0.0.1:55870
+1692920785777	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofileesyUc7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692920786342	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692920786511	Marionette	INFO	Listening on port 55879
+WebDriver BiDi listening on ws://127.0.0.1:55871
+Read port: 55879
+1692920786673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:55871/devtools/browser/ce404a30-5b6c-4da1-8a73-97585c220874
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1692920793964	Marionette	INFO	Stopped listening on port 55879
+1692920885245	geckodriver	INFO	Listening on 127.0.0.1:55942
+1692920885762	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hn/29kq9z8d72g9p0twnx7z0wpw0000gn/T/rust_mozprofilez2ibeg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692920886185	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1692920886311	Marionette	INFO	Listening on port 55950
+WebDriver BiDi listening on ws://127.0.0.1:55943
+Read port: 55950
+1692920886471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:55943/devtools/browser/092cbbfd-9ad1-4b8d-8610-247288b33dd0
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://parfums.ua."
+JavaScript warning: https://parfums.ua/theme/site/js/lib/lib.min.56972e.js, line 0: Successfully compiled asm.js code (total compilation time 0ms)
+1692920893267	Marionette	INFO	Stopped listening on port 55950

@@ -27,10 +27,10 @@ def get_browser_driver(browser_name:str):
 
 
 @pytest.fixture
-def browser(request):
+def browser(request, custom_logger):
 
     url, browser_name = request.param
     driver = get_browser_driver(browser_name=browser_name)
     driver.maximize_window()
-    yield HomePage(webdriver=driver, url=url)
+    yield HomePage(webdriver=driver, url=url, logger=custom_logger)
     driver.quit()
