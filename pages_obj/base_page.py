@@ -70,7 +70,6 @@ class BasePage:
             raise NoSuchElementException(str(ns))
 
 
-
     @step("Navigate to women parfums catalog - jinocha parfum")
     def go_to_women_parfums(self):
         from pages_obj.catalog_page import CatalogPage

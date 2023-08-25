@@ -7,15 +7,14 @@ import pytest
 @pytest.fixture
 def custom_logger(request):
     custom_logger = logging.getLogger(request.function.__name__)
+    custom_logger.setLevel(level=logging.DEBUG)
     string_io = StringIO()
 
     # Create console streaming handler
     c_handler = logging.StreamHandler()
-    c_handler.setLevel(level=logging.NOTSET)
 
     # Creating string io streaming handler
     s_handler = logging.StreamHandler(stream=string_io)
-    s_handler.setLevel(level=logging.NOTSET)
 
     # Create formatters for each handler
     c_handler_format = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
@@ -31,4 +30,4 @@ def custom_logger(request):
 
     yield custom_logger
 
-    allure.attach(str(string_io.getvalue()), name="Log file", attachment_type=allure.attachment_type.TEXT)
+    allure.attach(string_io.getvalue(), name="Log file", attachment_type=allure.attachment_type.TEXT)
